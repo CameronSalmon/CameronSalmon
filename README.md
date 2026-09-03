@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there 👋
 
 I'm **Cameron Salmon**, a U.S. Marine Corps veteran and **CompTIA A+ and Network+ certified** IT professional transitioning into cybersecurity and technical support.
