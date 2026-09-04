@@ -16,7 +16,7 @@ Currently finishing MyComputerCareer's Cyber Warrior program, with Security+ sch
 
 - **CompTIA A+ 220-1202** — certified 08/04/2026, valid through 02/01/2029
 - **CompTIA Network+ N10-009** — certified 08/25/2026, valid through 02/22/2029
-- **CompTIA Security+** — exam scheduled September 2026
+- **CompTIA Security+** — exam scheduled September 09, 2026
 - **CompTIA CySA+** — next
 
 ## Core Competencies
@@ -32,13 +32,14 @@ Currently finishing MyComputerCareer's Cyber Warrior program, with Security+ sch
 
 **[Cybersecurity-Training](https://github.com/CameronSalmon/Cybersecurity-Training)** — Incident response documentation. Currently holds a full write-up of a typo-squatting and scareware encounter: containment, malware scanning, browser remediation, Windows system file repair, and post-repair verification, with evidence at each step.
 
-**[packet-tracer-labs](https://github.com/CameronSalmon/packet-tracer-labs)** — Network+ practice labs built in Cisco Packet Tracer, with topology diagrams, addressing tables, and connectivity testing.
+**[packet-tracer-labs](https://github.com/CameronSalmon/packet-tracer-labs)** — Network+ practice labs in Cisco Packet Tracer: switched LAN build, IPv4 addressing, and connectivity verification.
 
 ---
 
 ## 💼 Background
 
 **Senior Communication Maintenance Manager, U.S. Marine Corps** (May 2015 – Nov 2019)
+
 Led 13 technicians maintaining 280+ communication assets across 26 equipment types. Installed, configured, and repaired vehicle-mounted and GPS communication systems. Inspected 150+ assets with zero corrective maintenance returns.
 
 **Current focus:** Cybersecurity training through MyComputerCareer, building a public portfolio of incident response and networking documentation.
@@ -48,7 +49,9 @@ Led 13 technicians maintaining 280+ communication assets across 26 equipment typ
 ## 🔗 Connect
 
 **LinkedIn:** [in/cameron-salmon-](https://www.linkedin.com/in/cameron-salmon-)
+
 **Email:** cameronsalmon21@gmail.com
+
 **Location:** Houston, TX — open to remote, hybrid, onsite, and relocation
 
 ---
